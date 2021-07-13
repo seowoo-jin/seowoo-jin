@@ -1,6 +1,6 @@
 # Jin Seo Woo
 ### <p align="center">Hi there :wave:</p>
-<p align="center"> I'm Seowoo Jin, a junior developer for JAVA</p>
+<p align="center"> I'm Seowoo Jin, a junior developer</p>
 <br>
 
 ### <p align="center">:octocat:TECH STACK</p>
