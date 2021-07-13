@@ -1,4 +1,4 @@
-# Jin Seo Woo
+# <p align="center">Jin Seo Woo</p>
 ### <p align="center">Hi there :wave:</p>
 <p align="center"> I'm Seowoo Jin, a junior developer</p>
 <br>
