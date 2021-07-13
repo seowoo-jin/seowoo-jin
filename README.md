@@ -2,7 +2,7 @@
 
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 
-<img alt="SpringBoot" src="https://img.shields.io/badge/Springboot-%23#6DB33F.svg?style=for-the-badge&logo=Springboot&logoColor=white"/>
+<img alt="SpringBoot" src="https://img.shields.io/badge/Spring-Boot-%23#6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white"/>
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
