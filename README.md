@@ -1,4 +1,6 @@
-### Hi there 👋
+### Jin Seo Woo
+
+<img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=Spring&logoColor=green"/>
 
 <!--
 **seowoo-jin/seowoo-jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
