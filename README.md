@@ -1,6 +1,6 @@
 # <p align="center">Jin Seo Woo</p>
 ### <p align="center">Hi there :wave:</p>
-<p align="center"> I'm Seowoo Jin, a junior developer</p>
+<p align="center"> I'm S.W Jin</p>
 <br>
 
 ### <p align="center">:octocat:TECH STACK</p>
@@ -8,7 +8,8 @@
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> 
   <img alt="Oracle" src ="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" /> 
-  <img alt="MySql" src ="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" /> 
+  <img alt="MySql" src ="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=whitee" />
   <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> 
   <img alt="SpringBoot" src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/> 
 </p>
